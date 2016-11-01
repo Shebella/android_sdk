@@ -1110,23 +1110,23 @@ If you want to trigger an event when the app is launched, use the `onCreate` met
 [reattribution-with-deeplinks]:   https://docs.adjust.com/en/deeplinking/#manually-appending-attribution-data-to-a-deep-link
 [android-purchase-verification]:  https://github.com/adjust/android_purchase_sdk
 
-[activity]:                     https://raw.github.com/adjust/sdks/master/Resources/android/v4/14_activity.png
-[proguard]:                     https://raw.github.com/adjust/sdks/master/Resources/android/v4/08_proguard_new.png
-[receiver]:                     https://raw.github.com/adjust/sdks/master/Resources/android/v4/09_receiver.png
-[gradle_gps]:                   https://raw.github.com/adjust/sdks/master/Resources/android/v4/05_gradle_gps.png
-[log_message]:                  https://raw.github.com/adjust/sdks/master/Resources/android/v4/15_log_message.png
-[manifest_gps]:                 https://raw.github.com/adjust/sdks/master/Resources/android/v4/06_manifest_gps.png
-[gradle_adjust]:                https://raw.github.com/adjust/sdks/master/Resources/android/v4/04_gradle_adjust.png
-[import_module]:                https://raw.github.com/adjust/sdks/master/Resources/android/v4/01_import_module.png
-[select_module]:                https://raw.github.com/adjust/sdks/master/Resources/android/v4/02_select_module.png
-[imported_module]:              https://raw.github.com/adjust/sdks/master/Resources/android/v4/03_imported_module.png
-[application_class]:            https://raw.github.com/adjust/sdks/master/Resources/android/v4/11_application_class.png
-[application_config]:           https://raw.github.com/adjust/sdks/master/Resources/android/v4/13_application_config.png
-[manifest_permissions]:         https://raw.github.com/adjust/sdks/master/Resources/android/v4/07_manifest_permissions.png
-[manifest_application]:         https://raw.github.com/adjust/sdks/master/Resources/android/v4/12_manifest_application.png
-[activity_lifecycle_class]:     https://raw.github.com/adjust/sdks/master/Resources/android/v4/16_activity_lifecycle_class.png
-[activity_lifecycle_methods]:   https://raw.github.com/adjust/sdks/master/Resources/android/v4/17_activity_lifecycle_methods.png
-[activity_lifecycle_register]:  https://raw.github.com/adjust/sdks/master/Resources/android/v4/18_activity_lifecycle_register.png
+[activity]:             https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/14_activity.png
+[proguard]:             https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/08_proguard_new.png
+[receiver]:             https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/09_receiver.png
+[gradle_gps]:           https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/05_gradle_gps.png
+[log_message]:          https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/15_log_message.png
+[manifest_gps]:         https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/06_manifest_gps.png
+[gradle_adjust]:        https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/04_gradle_adjust.png
+[import_module]:        https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/01_import_module.png
+[select_module]:        https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/02_select_module.png
+[imported_module]:      https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/03_imported_module.png
+[application_class]:    https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/11_application_class.png
+[application_config]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/13_application_config.png
+[manifest_permissions]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/07_manifest_permissions.png
+[manifest_application]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/12_manifest_application.png
+[activity_lifecycle_class]:     https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/16_activity_lifecycle_class.png
+[activity_lifecycle_methods]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/17_activity_lifecycle_methods.png
+[activity_lifecycle_register]:  https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/18_activity_lifecycle_register.png
 
 ## <a id="license"></a>License
 
