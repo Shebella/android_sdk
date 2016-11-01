@@ -49,7 +49,7 @@ when you create new Activities in the future. Depending on your coding style
 you might want to implement this in a common superclass of all your Activities.
 
 
-[guide]:      /README.md
+[guide]:                /README.md
 [android-dashboard]:    http://developer.android.com/about/dashboards/index.html
 
-[activity]: https://raw.github.com/adjust/sdks/master/Resources/android/v4/14_activity.png
+[activity]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/v4/14_activity.png
