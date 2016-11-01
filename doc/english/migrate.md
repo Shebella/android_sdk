@@ -236,14 +236,15 @@ meaningful at all times! Especially if you are tracking revenue.
    `double`, so you can drop the `f` suffixes in number literals (`12.3f`
    becomes `12.3`).
 
-[README]: ../README.md
-[dashboard]: http://adjust.com
-[search]: https://raw.github.com/adjust/adjust_sdk/master/Resources/android/search.png
-[replace]: https://raw.github.com/adjust/adjust_sdk/master/Resources/android/replace.png
-[import]: https://raw.github.com/adjust/adjust_sdk/master/Resources/android/import2.png
-[activity]: https://raw.github.com/adjust/adjust_sdk/master/Resources/android/activity4.png
-[settings]: https://raw.github.com/adjust/adjust_sdk/master/Resources/android/settings.png
-[android_application]:  http://developer.android.com/reference/android/app/Application.html
-[application_name]:     http://developer.android.com/guide/topics/manifest/application-element.html#nm
-[basic-setup]:          https://github.com/adjust/android_sdk/tree/master#basic-setup
+[README]:       ../README.md
+[dashboard]:    http://adjust.com
 
+[basic-setup]:          https://github.com/adjust/android_sdk/tree/master#basic-setup
+[application_name]:     http://developer.android.com/guide/topics/manifest/application-element.html#nm
+[android_application]:  http://developer.android.com/reference/android/app/Application.html
+
+[import]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/import2.png
+[search]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/search.png
+[replace]:  https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/replace.png
+[activity]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/activity4.png
+[settings]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/android/settings.png
